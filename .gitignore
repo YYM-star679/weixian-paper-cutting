@@ -1,0 +1,13 @@
+# 构建产物
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时文件
+src/_test.html
+src/_voices.ps1
+src/slides/_test.html
+assets/audio/_test*.mp3
+assets/slides/_test.png
