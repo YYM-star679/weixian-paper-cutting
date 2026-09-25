@@ -9,7 +9,7 @@
 | 文件 | [`video/weixian-paper-cutting.mp4`](video/weixian-paper-cutting.mp4) |
 | 时长 | 2 分 58 秒 |
 | 分辨率 | 1920 × 1080（1080p） |
-| 编码 | H.264 + AAC（25 fps，立体声） |
+| 编码 | H.264 High@4.1 + AAC-LC（yuv420p，25 fps，立体声，Windows 兼容） |
 | 语言 | 中文（普通话） |
 
 可直接点击上方链接在浏览器中在线预览，或下载后离线观看。
